@@ -1,0 +1,1357 @@
+{
+  "id": "busvisor",
+  "data": [
+    {
+      "id_seccion": "main",
+      "titulo": "",
+      "_descripcion": "secciÃ³n de configuraciÃ³n de los datos principales del sitio, como la leyenda",
+      "data": [
+        {
+          "leyenda": "El Poder Judicial de CÃ³rdoba pone a disposiciÃ³n las boletas Ãºnicas de votaciÃ³n por Departamento y Localidad. Para obtener cada una de ellas Ud. debe hacer clic en cada departamento de la lista o del mapa. A la derecha se podrÃ¡n observar la boleta departamental y las boletas de las localidades que llaman a elecciÃ³n para dicho departamento. Recuerde que estas boletas no son ejemplares vÃ¡lidos para votar.<br/><br/><b>Hay localidades que no aparecen en el listado porque no eligen autoridades municipales o comunales. En estos casos, se votarÃ¡ con la boleta departamental</b>"
+        }
+      ]
+    },
+    {
+      "id_seccion": "boletaxdepartamento",
+      "titulo": "Listado de boletas por departamento y localidad",
+      "_descripcion": "",
+      "data": [
+        {
+          "capital": {
+            "id": 1,
+            "Descripcion": "Capital",
+            "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUS/Capital.pdf",
+            "localidades": []
+          },
+          "calamuchita": {
+            "id": 2,
+            "Descripcion": "Calamuchita",
+            "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUS/Calamuchita.pdf",
+            "localidades": [
+              {
+                "id": 17,
+                "Codigo": "017_amboy",
+                "Descripcion": "Amboy",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Amboy.pdf"
+              },
+              {
+                "id": 52,
+                "Codigo": "052_calmayo",
+                "Descripcion": "Calmayo",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Calmayo.pdf"
+              },
+              {
+                "id": 149,
+                "Codigo": "149_embalse",
+                "Descripcion": "Embalse",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Embalse.pdf"
+              },
+              {
+                "id": 205,
+                "Codigo": "205_lacumbrecita",
+                "Descripcion": "La Cumbrecita",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/La_Cumbrecita.pdf"
+              },
+              {
+                "id": 238,
+                "Codigo": "238_lascaleras",
+                "Descripcion": "Las Caleras",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Las_Caleras.pdf"
+              },
+              {
+                "id": 276,
+                "Codigo": "276_losmolinos",
+                "Descripcion": "Los Molinos",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Los_Molinos.pdf"
+              },
+              {
+                "id": 387,
+                "Codigo": "387_sanagustin",
+                "Descripcion": "San AgustÃ­n",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/San_Agustin.pdf"
+              },
+              {
+                "id": 436,
+                "Codigo": "436_segundausina",
+                "Descripcion": "Segunda Usina",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Segunda_Usina.pdf"
+              },
+              {
+                "id": 465,
+                "Codigo": "465_villaamancay",
+                "Descripcion": "Villa Amancay",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Villa_Amancay.pdf"
+              },
+              {
+                "id": 473,
+                "Codigo": "473_villaciudadparquelosreartes",
+                "Descripcion": "Villa Ciudad Parque Los Reartes",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Villa_Ciudad_Parque_Los_Reartes.pdf"
+              },
+              {
+                "id": 489,
+                "Codigo": "489_villageneralbelgrano",
+                "Descripcion": "Villa General Belgrano",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Villa_General_Belgrano.pdf"
+              },
+              {
+                "id": 503,
+                "Codigo": "503_villaquillinzo",
+                "Descripcion": "Villa Quillinzo",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Villa_Quillinzo.pdf"
+              },
+              {
+                "id": 513,
+                "Codigo": "513_villayacanto",
+                "Descripcion": "Villa Yacanto",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Villa_Yacanto.pdf"
+              }
+            ]
+          },
+          "colon": {
+            "id": 3,
+            "Descripcion": "ColÃ³n",
+            "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUS/Colon.pdf",
+            "localidades": [
+              {
+                "id": 106,
+                "Codigo": "106_coloniavicenteaguero",
+                "Descripcion": "Colonia Vicente AgÃ¼ero",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Colonia_Vicente_Aguero.pdf"
+              },
+              {
+                "id": 143,
+                "Codigo": "143_elmanzano",
+                "Descripcion": "El Manzano",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/El_Manzano.pdf"
+              },
+              {
+                "id": 194,
+                "Codigo": "194_lacalera",
+                "Descripcion": "La Calera",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/La_Calera.pdf"
+              },
+              {
+                "id": 209,
+                "Codigo": "209_lagranja",
+                "Descripcion": "La Granja",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/La_Granja.pdf"
+              },
+              {
+                "id": 304,
+                "Codigo": "304_migranja",
+                "Descripcion": "Mi Granja",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Mi_Granja.pdf"
+              },
+              {
+                "id": 450,
+                "Codigo": "450_tinoco",
+                "Descripcion": "Tinoco",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Tinoco.pdf"
+              },
+              {
+                "id": 460,
+                "Codigo": "460_unquillo",
+                "Descripcion": "Unquillo",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Unquillo.pdf"
+              },
+              {
+                "id": 471,
+                "Codigo": "471_villacerroazul",
+                "Descripcion": "Villa Cerro Azul",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Villa_Cerro_Azul.pdf"
+              }
+            ]
+          },
+          "cruzdeleje": {
+            "id": 4,
+            "Descripcion": "Cruz del Eje",
+            "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUS/Cruz_del_Eje.pdf",
+            "localidades": [
+              {
+                "id": 34,
+                "Codigo": "034_banadodesoto",
+                "Descripcion": "BaÃ±ado de Soto",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Banado_de_Soto.pdf"
+              },
+              {
+                "id": 123,
+                "Codigo": "123_cruzdeleje",
+                "Descripcion": "Cruz del Eje",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Cruz_del_Eje.pdf"
+              },
+              {
+                "id": 266,
+                "Codigo": "266_loschanaritos",
+                "Descripcion": "Los ChaÃ±aritos",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Los_Chanaritos.pdf"
+              },
+              {
+                "id": 301,
+                "Codigo": "301_medianaranja",
+                "Descripcion": "Media Naranja",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Media_Naranja.pdf"
+              },
+              {
+                "id": 338,
+                "Codigo": "338_pasoviejo",
+                "Descripcion": "Paso Viejo",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Paso_Viejo.pdf"
+              },
+              {
+                "id": 458,
+                "Codigo": "458_tuclame",
+                "Descripcion": "Tuclame",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Tuclame.pdf"
+              }
+            ]
+          },
+          "generalroca": {
+            "id": 5,
+            "Descripcion": "General Roca",
+            "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUS/General_Roca.pdf",
+            "localidades": [
+              {
+                "id": 46,
+                "Codigo": "046_buchardo",
+                "Descripcion": "Buchardo",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Buchardo.pdf"
+              },
+              {
+                "id": 317,
+                "Codigo": "317_nicolasbruzone",
+                "Descripcion": "NicolÃ¡s Bruzone",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Nicolas_Bruzone.pdf"
+              },
+              {
+                "id": 509,
+                "Codigo": "509_villasarmiento",
+                "Descripcion": "Villa Sarmiento",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Villa_Sarmiento.pdf"
+              },
+              {
+                "id": 512,
+                "Codigo": "512_villavaleria",
+                "Descripcion": "Villa Valeria",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Villa_Valeria.pdf"
+              }
+            ]
+          },
+          "generalsanmartin": {
+            "id": 6,
+            "Descripcion": "General San MartÃ­n",
+            "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUS/General_San_Martin.pdf",
+            "localidades": [
+              {
+                "id": 29,
+                "Codigo": "029_ausonia",
+                "Descripcion": "Ausonia",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Ausonia.pdf"
+              },
+              {
+                "id": 157,
+                "Codigo": "157_etruria",
+                "Descripcion": "Etruria",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Etruria.pdf"
+              },
+              {
+                "id": 219,
+                "Codigo": "219_laplayosa",
+                "Descripcion": "La Playosa",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/La_Playosa.pdf"
+              },
+              {
+                "id": 283,
+                "Codigo": "283_luca",
+                "Descripcion": "Luca",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Luca.pdf"
+              },
+              {
+                "id": 451,
+                "Codigo": "451_tiopujio",
+                "Descripcion": "TÃ­o Pujio",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Tio_Pujio.pdf"
+              },
+              {
+                "id": 500,
+                "Codigo": "500_villanueva",
+                "Descripcion": "Villa Nueva",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Villa_Nueva.pdf"
+              }
+            ]
+          },
+          "ischilin": {
+            "id": 7,
+            "Descripcion": "IschilÃ­n",
+            "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUS/Ischilin.pdf",
+            "localidades": [
+              {
+                "id": 30,
+                "Codigo": "030_avellaneda",
+                "Descripcion": "Avellaneda",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Avellaneda.pdf"
+              },
+              {
+                "id": 58,
+                "Codigo": "058_canadaderiopinto",
+                "Descripcion": "CaÃ±ada de RÃ­o Pinto",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Canada_de_Rio_Pinto.pdf"
+              },
+              {
+                "id": 84,
+                "Codigo": "084_chuna",
+                "Descripcion": "ChuÃ±a",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Chuna.pdf"
+              }
+            ]
+          },
+          "juarezcelman": {
+            "id": 8,
+            "Descripcion": "JuÃ¡rez Celman",
+            "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUS/Juarez_Celman.pdf",
+            "localidades": [
+              {
+                "id": 7,
+                "Codigo": "007_alejandroroca",
+                "Descripcion": "Alejandro Roca",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Alejandro_Roca.pdf"
+              },
+              {
+                "id": 70,
+                "Codigo": "070_carnerillo",
+                "Descripcion": "Carnerillo",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Carnerillo.pdf"
+              },
+              {
+                "id": 174,
+                "Codigo": "174_huanchilla",
+                "Descripcion": "Huanchilla",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Huanchilla.pdf"
+              },
+              {
+                "id": 197,
+                "Codigo": "197_lacarlota",
+                "Descripcion": "La Carlota",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/La_Carlota.pdf"
+              },
+              {
+                "id": 366,
+                "Codigo": "366_reduccion",
+                "Descripcion": "ReducciÃ³n",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Reduccion.pdf"
+              }
+            ]
+          },
+          "marcosjuarez": {
+            "id": 9,
+            "Descripcion": "Marcos JuÃ¡rez",
+            "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUS/Marcos_Juarez.pdf",
+            "localidades": [
+              {
+                "id": 8,
+                "Codigo": "008_alejoledesma",
+                "Descripcion": "Alejo Ledesma",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Alejo_Ledesma.pdf"
+              },
+              {
+                "id": 21,
+                "Codigo": "021_arias",
+                "Descripcion": "Arias",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Arias.pdf"
+              },
+              {
+                "id": 50,
+                "Codigo": "050_cavanagh",
+                "Descripcion": "Cavanagh",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Cavanagh.pdf"
+              },
+              {
+                "id": 93,
+                "Codigo": "093_coloniabarge",
+                "Descripcion": "Colonia Barge",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Colonia_Barge.pdf"
+              },
+              {
+                "id": 115,
+                "Codigo": "115_corraldebustos-ifflinger",
+                "Descripcion": "Corral de Bustos - Ifflinger",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Corral_de_Bustos_-_Ifflinger.pdf"
+              },
+              {
+                "id": 161,
+                "Codigo": "161_generalbaldissera",
+                "Descripcion": "General Baldissera",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/General_Baldissera.pdf"
+              },
+              {
+                "id": 166,
+                "Codigo": "166_generalroca",
+                "Descripcion": "General Roca",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/General_Roca.pdf"
+              },
+              {
+                "id": 171,
+                "Codigo": "171_guatimozin",
+                "Descripcion": "GuatimozÃ­n",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Guatimozin.pdf"
+              },
+              {
+                "id": 183,
+                "Codigo": "183_islaverde",
+                "Descripcion": "Isla Verde",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Isla_Verde.pdf"
+              },
+              {
+                "id": 261,
+                "Codigo": "261_leones",
+                "Descripcion": "Leones",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Leones.pdf"
+              },
+              {
+                "id": 279,
+                "Codigo": "279_lossurgentes",
+                "Descripcion": "Los Surgentes",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Los_Surgentes.pdf"
+              },
+              {
+                "id": 381,
+                "Codigo": "381_saira",
+                "Descripcion": "Saira",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Saira.pdf"
+              }
+            ]
+          },
+          "minas": {
+            "id": 10,
+            "Descripcion": "Minas",
+            "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUS/Minas.pdf",
+            "localidades": [
+              {
+                "id": 153,
+                "Codigo": "153_estanciadeguadalupe",
+                "Descripcion": "Estancia de Guadalupe",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Estancia_de_Guadalupe.pdf"
+              },
+              {
+                "id": 170,
+                "Codigo": "170_guasapampa",
+                "Descripcion": "Guasapampa",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Guasapampa.pdf"
+              },
+              {
+                "id": 394,
+                "Codigo": "394_sancarlosminas",
+                "Descripcion": "San Carlos Minas",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/San_Carlos_Minas.pdf"
+              },
+              {
+                "id": 446,
+                "Codigo": "446_talaini",
+                "Descripcion": "TalainÃ­",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Talaini.pdf"
+              }
+            ]
+          },
+          "pocho": {
+            "id": 11,
+            "Descripcion": "Pocho",
+            "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUS/Pocho.pdf",
+            "localidades": [
+              {
+                "id": 78,
+                "Codigo": "078_chancani",
+                "Descripcion": "ChancanÃ­",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Chancani.pdf"
+              },
+              {
+                "id": 479,
+                "Codigo": "479_villadepocho",
+                "Descripcion": "Villa de Pocho",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Villa_de_Pocho.pdf"
+              }
+            ]
+          },
+          "punilla": {
+            "id": 12,
+            "Descripcion": "Punilla",
+            "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUS/Punilla.pdf",
+            "localidades": [
+              {
+                "id": 43,
+                "Codigo": "043_bialetmasse",
+                "Descripcion": "Bialet MassÃ©",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Bialet_Masse.pdf"
+              },
+              {
+                "id": 49,
+                "Codigo": "049_cabalango",
+                "Descripcion": "Cabalango",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Cabalango.pdf"
+              },
+              {
+                "id": 79,
+                "Codigo": "079_charbonier",
+                "Descripcion": "Charbonier",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Charbonier.pdf"
+              },
+              {
+                "id": 176,
+                "Codigo": "176_huertagrande",
+                "Descripcion": "Huerta Grande",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Huerta_Grande.pdf"
+              },
+              {
+                "id": 204,
+                "Codigo": "204_lacumbre",
+                "Descripcion": "La Cumbre",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/La_Cumbre.pdf"
+              },
+              {
+                "id": 268,
+                "Codigo": "268_loscocos",
+                "Descripcion": "Los Cocos",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Los_Cocos.pdf"
+              },
+              {
+                "id": 299,
+                "Codigo": "299_mayusumaj",
+                "Descripcion": "MayÃº Sumaj",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Mayu_Sumaj.pdf"
+              },
+              {
+                "id": 396,
+                "Codigo": "396_sanesteban",
+                "Descripcion": "San Esteban",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/San_Esteban.pdf"
+              },
+              {
+                "id": 475,
+                "Codigo": "475_cuestablanca",
+                "Descripcion": "Cuesta Blanca",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Cuesta_Blanca.pdf"
+              }
+            ]
+          },
+          "riocuarto": {
+            "id": 13,
+            "Descripcion": "RÃ­o Cuarto",
+            "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUS/Rio_Cuarto.pdf",
+            "localidades": [
+              {
+                "id": 1,
+                "Codigo": "001_achiras",
+                "Descripcion": "Achiras",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Achiras.pdf"
+              },
+              {
+                "id": 2,
+                "Codigo": "002_adeliamaria",
+                "Descripcion": "Adelia MarÃ­a",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Adelia_Maria.pdf"
+              },
+              {
+                "id": 48,
+                "Codigo": "048_bulnes",
+                "Descripcion": "Bulnes",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Bulnes.pdf"
+              },
+              {
+                "id": 75,
+                "Codigo": "075_chajan",
+                "Descripcion": "ChajÃ¡n",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Chajan.pdf"
+              },
+              {
+                "id": 113,
+                "Codigo": "113_coronelbaigorria",
+                "Descripcion": "Coronel Baigorria",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Coronel_Baigorria.pdf"
+              },
+              {
+                "id": 114,
+                "Codigo": "114_coronelmoldes",
+                "Descripcion": "Coronel Moldes",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Coronel_Moldes.pdf"
+              },
+              {
+                "id": 148,
+                "Codigo": "148_elena",
+                "Descripcion": "Elena",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Elena.pdf"
+              },
+              {
+                "id": 198,
+                "Codigo": "198_lacarolina(elpotosi)",
+                "Descripcion": "La Carolina (El PotosÃ­)",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/La_Carolina_(El_Potosi).pdf"
+              },
+              {
+                "id": 234,
+                "Codigo": "234_lasacequias",
+                "Descripcion": "Las Acequias",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Las_Acequias.pdf"
+              },
+              {
+                "id": 235,
+                "Codigo": "235_lasalbahacas",
+                "Descripcion": "Las Albahacas",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Las_Albahacas.pdf"
+              },
+              {
+                "id": 250,
+                "Codigo": "250_laspenassud",
+                "Descripcion": "Las PeÃ±as Sud",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Las_Penas_Sud.pdf"
+              },
+              {
+                "id": 310,
+                "Codigo": "310_montedelosgauchos",
+                "Descripcion": "Monte de los Gauchos",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Monte_de_los_Gauchos.pdf"
+              },
+              {
+                "id": 393,
+                "Codigo": "393_sanbasilio",
+                "Descripcion": "San Basilio",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/San_Basilio.pdf"
+              },
+              {
+                "id": 442,
+                "Codigo": "442_suco",
+                "Descripcion": "Suco",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Suco.pdf"
+              },
+              {
+                "id": 486,
+                "Codigo": "486_villaelchacay",
+                "Descripcion": "Villa el Chacay",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Villa_el_Chacay.pdf"
+              }
+            ]
+          },
+          "rioprimero": {
+            "id": 14,
+            "Descripcion": "RÃ­o Primero",
+            "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUS/Rio_Primero.pdf",
+            "localidades": [
+              {
+                "id": 63,
+                "Codigo": "063_capilladelosremedios",
+                "Descripcion": "Capilla de los Remedios",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Capilla_de_los_Remedios.pdf"
+              },
+              {
+                "id": 76,
+                "Codigo": "076_chalacea",
+                "Descripcion": "Chalacea",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Chalacea.pdf"
+              },
+              {
+                "id": 140,
+                "Codigo": "140_elcrispin",
+                "Descripcion": "El CrispÃ­n",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/El_Crispin.pdf"
+              },
+              {
+                "id": 151,
+                "Codigo": "151_esquina",
+                "Descripcion": "Esquina",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Esquina.pdf"
+              },
+              {
+                "id": 217,
+                "Codigo": "217_lapara",
+                "Descripcion": "La Para",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/La_Para.pdf"
+              },
+              {
+                "id": 224,
+                "Codigo": "224_laquinta",
+                "Descripcion": "La Quinta",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/La_Quinta.pdf"
+              },
+              {
+                "id": 309,
+                "Codigo": "309_montecristo",
+                "Descripcion": "Monte Cristo",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Monte_Cristo.pdf"
+              },
+              {
+                "id": 346,
+                "Codigo": "346_plazademercedes",
+                "Descripcion": "Plaza de Mercedes",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Plaza_de_Mercedes.pdf"
+              },
+              {
+                "id": 488,
+                "Codigo": "488_villafontana",
+                "Descripcion": "Villa Fontana",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Villa_Fontana.pdf"
+              }
+            ]
+          },
+          "rioseco": {
+            "id": 15,
+            "Descripcion": "RÃ­o Seco",
+            "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUS/Rio_Seco.pdf",
+            "localidades": [
+              {
+                "id": 172,
+                "Codigo": "172_gutemberg",
+                "Descripcion": "Gutemberg",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Gutemberg.pdf"
+              },
+              {
+                "id": 365,
+                "Codigo": "365_rayocortado",
+                "Descripcion": "Rayo Cortado",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Rayo_Cortado.pdf"
+              },
+              {
+                "id": 421,
+                "Codigo": "421_santaelena",
+                "Descripcion": "Santa Elena",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Santa_Elena.pdf"
+              },
+              {
+                "id": 434,
+                "Codigo": "434_sebastianelcano",
+                "Descripcion": "SebastiÃ¡n Elcano",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Sebastian_Elcano.pdf"
+              },
+              {
+                "id": 478,
+                "Codigo": "478_villademaria",
+                "Descripcion": "Villa de MarÃ­a",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Villa_de_Maria.pdf"
+              }
+            ]
+          },
+          "riosegundo": {
+            "id": 16,
+            "Descripcion": "RÃ­o Segundo",
+            "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUS/Rio_Segundo.pdf",
+            "localidades": [
+              {
+                "id": 233,
+                "Codigo": "233_lagunalarga",
+                "Descripcion": "Laguna Larga",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Laguna_Larga.pdf"
+              },
+              {
+                "id": 292,
+                "Codigo": "292_manfredi",
+                "Descripcion": "Manfredi",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Manfredi.pdf"
+              },
+              {
+                "id": 296,
+                "Codigo": "296_matorrales",
+                "Descripcion": "Matorrales",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Matorrales.pdf"
+              },
+              {
+                "id": 328,
+                "Codigo": "328_oncativo",
+                "Descripcion": "Oncativo",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Oncativo.pdf"
+              },
+              {
+                "id": 367,
+                "Codigo": "367_rincon",
+                "Descripcion": "RincÃ³n",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Rincon.pdf"
+              },
+              {
+                "id": 373,
+                "Codigo": "373_riosegundo",
+                "Descripcion": "RÃ­o Segundo",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Rio_Segundo.pdf"
+              }
+            ]
+          },
+          "roquesaenzpena": {
+            "id": 17,
+            "Descripcion": "Pte. Roque SÃ¡enz PeÃ±a",
+            "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUS/Pte._Roque_Saenz_Pena.pdf",
+            "localidades": [
+              {
+                "id": 165,
+                "Codigo": "165_generallevalle",
+                "Descripcion": "General Levalle",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/General_Levalle.pdf"
+              },
+              {
+                "id": 200,
+                "Codigo": "200_lacesira",
+                "Descripcion": "La Cesira",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/La_Cesira.pdf"
+              },
+              {
+                "id": 302,
+                "Codigo": "302_melo",
+                "Descripcion": "Melo",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Melo.pdf"
+              },
+              {
+                "id": 368,
+                "Codigo": "368_riobamba",
+                "Descripcion": "Riobamba",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Riobamba.pdf"
+              },
+              {
+                "id": 375,
+                "Codigo": "375_rosales",
+                "Descripcion": "Rosales",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Rosales.pdf"
+              },
+              {
+                "id": 437,
+                "Codigo": "437_serrano",
+                "Descripcion": "Serrano",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Serrano.pdf"
+              }
+            ]
+          },
+          "sanalberto": {
+            "id": 18,
+            "Descripcion": "San Alberto",
+            "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUS/San_Alberto.pdf",
+            "localidades": [
+              {
+                "id": 18,
+                "Codigo": "018_ambul",
+                "Descripcion": "Ambul",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Ambul.pdf"
+              },
+              {
+                "id": 25,
+                "Codigo": "025_arroyodelospatos",
+                "Descripcion": "Arroyo de los Patos",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Arroyo_de_los_Patos.pdf"
+              },
+              {
+                "id": 239,
+                "Codigo": "239_lascalles",
+                "Descripcion": "Las Calles",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Las_Calles.pdf"
+              },
+              {
+                "id": 305,
+                "Codigo": "305_minaclavero",
+                "Descripcion": "Mina Clavero",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Mina_Clavero.pdf"
+              },
+              {
+                "id": 319,
+                "Codigo": "319_nono",
+                "Descripcion": "Nono",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Nono.pdf"
+              },
+              {
+                "id": 334,
+                "Codigo": "334_panaholma",
+                "Descripcion": "Panaholma",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Panaholma.pdf"
+              },
+              {
+                "id": 411,
+                "Codigo": "411_sanpedro",
+                "Descripcion": "San Pedro",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/San_Pedro.pdf"
+              },
+              {
+                "id": 415,
+                "Codigo": "415_sanvicente",
+                "Descripcion": "San Vicente",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/San_Vicente.pdf"
+              },
+              {
+                "id": 432,
+                "Codigo": "432_saucearriba",
+                "Descripcion": "Sauce Arriba",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Sauce_Arriba.pdf"
+              }
+            ]
+          },
+          "sanjavier": {
+            "id": 19,
+            "Descripcion": "San Javier",
+            "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUS/San_Javier.pdf",
+            "localidades": [
+              {
+                "id": 110,
+                "Codigo": "110_conlara",
+                "Descripcion": "Conlara",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Conlara.pdf"
+              },
+              {
+                "id": 220,
+                "Codigo": "220_lapoblacion",
+                "Descripcion": "La PoblaciÃ³n",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/La_Poblacion.pdf"
+              },
+              {
+                "id": 255,
+                "Codigo": "255_lastapias",
+                "Descripcion": "Las Tapias",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Las_Tapias.pdf"
+              },
+              {
+                "id": 263,
+                "Codigo": "263_loscerrillos",
+                "Descripcion": "Los Cerrillos",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Los_Cerrillos.pdf"
+              },
+              {
+                "id": 272,
+                "Codigo": "272_loshornillos",
+                "Descripcion": "Los Hornillos",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Los_Hornillos.pdf"
+              },
+              {
+                "id": 287,
+                "Codigo": "287_luyaba",
+                "Descripcion": "Luyaba",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Luyaba.pdf"
+              },
+              {
+                "id": 401,
+                "Codigo": "401_sanjavieryyacanto",
+                "Descripcion": "San Javier y Yacanto",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/San_Javier_y_Yacanto.pdf"
+              },
+              {
+                "id": 404,
+                "Codigo": "404_sanjose",
+                "Descripcion": "San JosÃ©",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/San_Jose.pdf"
+              },
+              {
+                "id": 523,
+                "Codigo": "523_lapaz",
+                "Descripcion": "La Paz",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/La_Paz.pdf"
+              }
+            ]
+          },
+          "sanjusto": {
+            "id": 20,
+            "Descripcion": "San Justo",
+            "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUS/San_Justo.pdf",
+            "localidades": [
+              {
+                "id": 9,
+                "Codigo": "009_alicia",
+                "Descripcion": "Alicia",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Alicia.pdf"
+              },
+              {
+                "id": 16,
+                "Codigo": "016_altosdechipion",
+                "Descripcion": "Altos de ChipiÃ³n",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Altos_de_Chipion.pdf"
+              },
+              {
+                "id": 45,
+                "Codigo": "045_brinkmann",
+                "Descripcion": "Brinkmann",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Brinkmann.pdf"
+              },
+              {
+                "id": 100,
+                "Codigo": "100_coloniamarina",
+                "Descripcion": "Colonia Marina",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Colonia_Marina.pdf"
+              },
+              {
+                "id": 102,
+                "Codigo": "102_coloniasanbartolome",
+                "Descripcion": "Colonia San BartolomÃ©",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Colonia_San_Bartolome.pdf"
+              },
+              {
+                "id": 108,
+                "Codigo": "108_coloniavignaud",
+                "Descripcion": "Colonia Vignaud",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Colonia_Vignaud.pdf"
+              },
+              {
+                "id": 129,
+                "Codigo": "129_devoto",
+                "Descripcion": "Devoto",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Devoto.pdf"
+              },
+              {
+                "id": 135,
+                "Codigo": "135_elaranado",
+                "Descripcion": "El AraÃ±ado",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/El_Aranado.pdf"
+              },
+              {
+                "id": 141,
+                "Codigo": "141_elfortin",
+                "Descripcion": "El FortÃ­n",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/El_Fortin.pdf"
+              },
+              {
+                "id": 146,
+                "Codigo": "146_eltio",
+                "Descripcion": "El TÃ­o",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/El_Tio.pdf"
+              },
+              {
+                "id": 160,
+                "Codigo": "160_freyre",
+                "Descripcion": "Freyre",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Freyre.pdf"
+              },
+              {
+                "id": 207,
+                "Codigo": "207_lafrancia",
+                "Descripcion": "La Francia",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/La_Francia.pdf"
+              },
+              {
+                "id": 229,
+                "Codigo": "229_latordilla",
+                "Descripcion": "La Tordilla",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/La_Tordilla.pdf"
+              },
+              {
+                "id": 256,
+                "Codigo": "256_lasvaras",
+                "Descripcion": "Las Varas",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Las_Varas.pdf"
+              },
+              {
+                "id": 306,
+                "Codigo": "306_miramar",
+                "Descripcion": "Miramar",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Miramar.pdf"
+              },
+              {
+                "id": 347,
+                "Codigo": "347_plazaluxardo",
+                "Descripcion": "Plaza Luxardo",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Plaza_Luxardo.pdf"
+              },
+              {
+                "id": 348,
+                "Codigo": "348_portena",
+                "Descripcion": "PorteÃ±a",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Portena.pdf"
+              },
+              {
+                "id": 398,
+                "Codigo": "398_sanfrancisco",
+                "Descripcion": "San Francisco",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/San_Francisco.pdf"
+              },
+              {
+                "id": 435,
+                "Codigo": "435_seeber",
+                "Descripcion": "Seeber",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Seeber.pdf"
+              },
+              {
+                "id": 457,
+                "Codigo": "457_transito",
+                "Descripcion": "TrÃ¡nsito",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Transito.pdf"
+              },
+              {
+                "id": 474,
+                "Codigo": "474_villaconcepciondeltio",
+                "Descripcion": "Villa ConcepciÃ³n del TÃ­o",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Villa_Concepcion_del_Tio.pdf"
+              }
+            ]
+          },
+          "santamaria": {
+            "id": 21,
+            "Descripcion": "Santa MarÃ­a",
+            "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUS/Santa_Maria.pdf",
+            "localidades": [
+              {
+                "id": 20,
+                "Codigo": "020_anisacate",
+                "Descripcion": "Anisacate",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Anisacate.pdf"
+              },
+              {
+                "id": 128,
+                "Codigo": "128_despenaderos",
+                "Descripcion": "DespeÃ±aderos",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Despenaderos.pdf"
+              },
+              {
+                "id": 132,
+                "Codigo": "132_diquechico",
+                "Descripcion": "Dique Chico",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Dique_Chico.pdf"
+              },
+              {
+                "id": 159,
+                "Codigo": "159_faldadelcarmen",
+                "Descripcion": "Falda del Carmen",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Falda_del_Carmen.pdf"
+              },
+              {
+                "id": 225,
+                "Codigo": "225_larancherita-lascascadas",
+                "Descripcion": "La Rancherita - Las Cascadas",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/La_Rancherita_-_Las_Cascadas.pdf"
+              },
+              {
+                "id": 262,
+                "Codigo": "262_loscedros",
+                "Descripcion": "Los Cedros",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Los_Cedros.pdf"
+              },
+              {
+                "id": 289,
+                "Codigo": "289_malagueno",
+                "Descripcion": "MalagueÃ±o",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Malagueno.pdf"
+              },
+              {
+                "id": 314,
+                "Codigo": "314_monteralo",
+                "Descripcion": "Monte Ralo",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Monte_Ralo.pdf"
+              },
+              {
+                "id": 349,
+                "Codigo": "349_potrerodegaray",
+                "Descripcion": "Potrero de Garay",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Potrero_de_Garay.pdf"
+              },
+              {
+                "id": 363,
+                "Codigo": "363_rafaelgarcia",
+                "Descripcion": "Rafael GarcÃ­a",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Rafael_Garcia.pdf"
+              },
+              {
+                "id": 395,
+                "Codigo": "395_sanclemente",
+                "Descripcion": "San Clemente",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/San_Clemente.pdf"
+              },
+              {
+                "id": 452,
+                "Codigo": "452_toledo",
+                "Descripcion": "Toledo",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Toledo.pdf"
+              },
+              {
+                "id": 461,
+                "Codigo": "461_valledeanisacate",
+                "Descripcion": "Valle de Anisacate",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Valle_de_Anisacate.pdf"
+              },
+              {
+                "id": 472,
+                "Codigo": "472_villaciudaddeamerica",
+                "Descripcion": "Villa Ciudad de AmÃ©rica",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Villa_Ciudad_de_America.pdf"
+              }
+            ]
+          },
+          "sobremonte": {
+            "id": 22,
+            "Descripcion": "Sobremonte",
+            "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUS/Sobremonte.pdf",
+            "localidades": [
+              {
+                "id": 85,
+                "Codigo": "085_chunahuasi",
+                "Descripcion": "ChuÃ±a Huasi",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Chuna_Huasi.pdf"
+              },
+              {
+                "id": 399,
+                "Codigo": "399_sanfranciscodelchanar",
+                "Descripcion": "San Francisco del ChaÃ±ar",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/San_Francisco_del_Chanar.pdf"
+              }
+            ]
+          },
+          "terceroarriba": {
+            "id": 23,
+            "Descripcion": "Tercero Arriba",
+            "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUS/Tercero_Arriba.pdf",
+            "localidades": [
+              {
+                "id": 91,
+                "Codigo": "091_coloniaalmada",
+                "Descripcion": "Colonia Almada",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Colonia_Almada.pdf"
+              },
+              {
+                "id": 125,
+                "Codigo": "125_dalmaciovelez",
+                "Descripcion": "Dalmacio VÃ©lez",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Dalmacio_Velez.pdf"
+              },
+              {
+                "id": 447,
+                "Codigo": "447_tancacha",
+                "Descripcion": "Tancacha",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Tancacha.pdf"
+              },
+              {
+                "id": 466,
+                "Codigo": "466_villaascasubi",
+                "Descripcion": "Villa Ascasubi",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Villa_Ascasubi.pdf"
+              }
+            ]
+          },
+          "totoral": {
+            "id": 24,
+            "Descripcion": "Totoral",
+            "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUS/Totoral.pdf",
+            "localidades": [
+              {
+                "id": 55,
+                "Codigo": "055_canadadeluque",
+                "Descripcion": "CaÃ±ada de Luque",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Canada_de_Luque.pdf"
+              },
+              {
+                "id": 62,
+                "Codigo": "062_candelariasud",
+                "Descripcion": "Candelaria Sud",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Candelaria_Sud.pdf"
+              },
+              {
+                "id": 64,
+                "Codigo": "064_capilladesiton",
+                "Descripcion": "Capilla de SitÃ³n",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Capilla_de_Siton.pdf"
+              },
+              {
+                "id": 215,
+                "Codigo": "215_lapampa",
+                "Descripcion": "La Pampa",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/La_Pampa.pdf"
+              },
+              {
+                "id": 249,
+                "Codigo": "249_laspenas",
+                "Descripcion": "Las PeÃ±as",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Las_Penas.pdf"
+              },
+              {
+                "id": 430,
+                "Codigo": "430_sarmiento",
+                "Descripcion": "Sarmiento",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Sarmiento.pdf"
+              },
+              {
+                "id": 440,
+                "Codigo": "440_simbolar",
+                "Descripcion": "Simbolar",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Simbolar.pdf"
+              },
+              {
+                "id": 441,
+                "Codigo": "441_sinsacate",
+                "Descripcion": "Sinsacate",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Sinsacate.pdf"
+              },
+              {
+                "id": 484,
+                "Codigo": "484_villadeltotoral",
+                "Descripcion": "Villa del Totoral",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Villa_del_Totoral.pdf"
+              }
+            ]
+          },
+          "tulumba": {
+            "id": 25,
+            "Descripcion": "Tulumba",
+            "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUS/Tulumba.pdf",
+            "localidades": [
+              {
+                "id": 236,
+                "Codigo": "236_lasarrias",
+                "Descripcion": "Las Arrias",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Las_Arrias.pdf"
+              },
+              {
+                "id": 376,
+                "Codigo": "376_rosariodelsaladillo",
+                "Descripcion": "Rosario del Saladillo",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Rosario_del_Saladillo.pdf"
+              },
+              {
+                "id": 406,
+                "Codigo": "406_sanjosedeladormida",
+                "Descripcion": "San JosÃ© de la Dormida",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/San_Jose_de_la_Dormida.pdf"
+              }
+            ]
+          },
+          "union": {
+            "id": 26,
+            "Descripcion": "UniÃ³n",
+            "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUS/Union.pdf",
+            "localidades": [
+              {
+                "id": 14,
+                "Codigo": "014_altoalegre",
+                "Descripcion": "Alto Alegre",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Alto_Alegre.pdf"
+              },
+              {
+                "id": 82,
+                "Codigo": "082_chilibroste",
+                "Descripcion": "Chilibroste",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Chilibroste.pdf"
+              },
+              {
+                "id": 94,
+                "Codigo": "094_coloniabismark",
+                "Descripcion": "Colonia Bismark",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Colonia_Bismark.pdf"
+              },
+              {
+                "id": 167,
+                "Codigo": "167_viamonte",
+                "Descripcion": "Viamonte",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Viamonte.pdf"
+              },
+              {
+                "id": 315,
+                "Codigo": "315_morrison",
+                "Descripcion": "Morrison",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Morrison.pdf"
+              },
+              {
+                "id": 329,
+                "Codigo": "329_ordonez",
+                "Descripcion": "OrdÃ³Ã±ez",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Ordonez.pdf"
+              },
+              {
+                "id": 335,
+                "Codigo": "335_pascanas",
+                "Descripcion": "Pascanas",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/Pascanas.pdf"
+              },
+              {
+                "id": 391,
+                "Codigo": "391_sanantoniodelitin",
+                "Descripcion": "San Antonio de LitÃ­n",
+                "fileName": "/Estatico/JEL/Contenido/BusVisor/Elecciones2019/BUSLOC/San_Antonio_de_Litin.pdf"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
