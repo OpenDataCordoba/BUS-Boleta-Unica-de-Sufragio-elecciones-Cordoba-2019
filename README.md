@@ -1,2 +1,5 @@
-# BUS-Boleta-Unica-de-Sufragio-elecciones-Cordoba-2019
-Boletas para votar en las elecciones
+# BUS Córdoba 2019
+
+Boletas para votar en las elecciones.  
+
+[Bus capital 2019!](img/BUS-capital-2019.png)
